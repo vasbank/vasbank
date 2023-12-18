@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+This GitHub account was created by Vasbank. Vasbank has nothing to do with the bank. We are a non-governmental organisation.
+
+Feedback Email: fb@vasbank.com
